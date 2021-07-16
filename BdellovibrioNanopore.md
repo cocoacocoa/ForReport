@@ -2,9 +2,9 @@
 
 ### Description
 
-Target genome: Bdellovibrio bacteriovorus mother strain (109J WT:JWT), mutant strain(109J KNR)
-Sequencing method: Naonopore
-Reference genome: *Bdellovibrio bacteriovorus* strain 109J (NCBI accession: NZ_CP007656)
+* Target genome: Bdellovibrio bacteriovorus mother strain (109J WT:JWT), mutant strain(109J KNR)
+* Sequencing method: Naonopore
+* Reference genome: *Bdellovibrio bacteriovorus* strain 109J (NCBI accession: NZ_CP007656)
 
 ### Genome Assembly
 
